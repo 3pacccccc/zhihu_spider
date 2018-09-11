@@ -1,0 +1,7 @@
+# Netscape HTTP Cookie File
+# http://curl.haxx.se/rfc/cookie_spec.html
+# This is a generated file!  Do not edit.
+
+.gitee.com	TRUE	/	FALSE	1537512932	remember_user_token	BAhbB1sGaQPs0B9JIiIkMmEkMTAkblEwcVM3UVYuMnA5Z2pKSUhmU3gxLgY6BkVU--0ffc7b279fd424e8ff1aaf8ad77d2eb92996cc81
+gitee.com	FALSE	/	FALSE	2167455332	oschina_new_user	false
+gitee.com	FALSE	/	FALSE	2167455332	user_locale	
