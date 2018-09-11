@@ -25,8 +25,8 @@ class ZhihuSpider(scrapy.Spider):
         browser.get('https://www.zhihu.com/signin')
 
        # browser.find_element_by_css_selector('.SignContainer-switch span').click()
-        browser.find_element_by_css_selector('.SignFlow-account input[name="username"]').send_keys('13883270441')
-        browser.find_element_by_css_selector('.SignFlow-password input[name="password"]').send_keys('555dedd+5')
+        browser.find_element_by_css_selector('.SignFlow-account input[name="username"]').send_keys('******')
+        browser.find_element_by_css_selector('.SignFlow-password input[name="password"]').send_keys('*******')
         browser.find_element_by_css_selector('button.SignFlow-submitButton').click()
 
         import time
